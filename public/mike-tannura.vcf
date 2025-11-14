@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Mike Tannura
+N:Tannura;Mike;;;
+ORG:Chromium Industries LLC
+TITLE:President
+TEL;TYPE=CELL,VOICE:+1-773-287-3716
+EMAIL;TYPE=INTERNET:mtannura@chormiumind.com
+END:VCARD
