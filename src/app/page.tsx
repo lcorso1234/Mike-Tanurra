@@ -16,7 +16,7 @@ export default function Home() {
       />
       <div className="pointer-events-none absolute inset-0 bg-[radial-gradient(circle_at_top,_rgba(255,255,255,0.08),_transparent_55%)] opacity-60" />
 
-      <article className="relative w-full max-w-sm overflow-hidden rounded-[36px] border border-white/10 bg-black/60 px-7 py-8 text-slate-100 shadow-[0_40px_80px_rgba(0,0,0,0.65)] backdrop-blur-3xl">
+      <article className="relative w-full max-w-sm overflow-hidden rounded-[36px] border border-white/10 bg-[#050607]/85 px-7 py-8 text-slate-100 shadow-[0_50px_90px_rgba(0,0,0,0.75)] backdrop-blur-3xl">
         <div
           className="pointer-events-none absolute inset-0 rounded-[36px]"
           style={{
@@ -39,8 +39,7 @@ export default function Home() {
 
           <section className="space-y-6 px-1">
             <p className="text-sm text-slate-300">
-              Save Chromium Industries LLC. to your contacts so Mike is always a
-              tap away.
+              YOU&apos;LL BE SURPRISED WHAT ROLLS OFF OF OUR ROLLS
             </p>
 
             <dl className="space-y-4 text-sm">
@@ -89,7 +88,7 @@ export default function Home() {
             </a>
 
             <p className="text-center text-xs text-slate-400">
-              Compatible with iOS & Android contact apps.
+              Custom Made in America.
             </p>
           </section>
         </div>
